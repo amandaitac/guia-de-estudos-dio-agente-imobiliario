@@ -40,7 +40,7 @@ Os critérios de seleção e as limitações das fontes estão documentados em [
 
 ## Notebook utilizado
 
-**Link compartilhado:** https://github.com/amandaitac/guia-de-estudos-dio-agente-imobiliario/edit/main/README.md
+**Link compartilhado:** https://github.com/amandaitac/guia-de-estudos-dio-agente-imobiliario
 
 ## Limitações
 
