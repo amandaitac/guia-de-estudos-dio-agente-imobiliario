@@ -2,41 +2,46 @@
 
 ## Sobre o projeto
 
-Projeto desenvolvido como desafio da DIO para explorar o uso da Inteligência Artificial aplicada ao mercado imobiliário brasileiro, utilizando o Gemini Notebook/NotebookLM como ambiente de pesquisa e organização do conhecimento.
+Projeto desenvolvido como parte de um desafio da DIO, utilizando o NotebookLM para organizar, estudar e analisar criticamente informações sobre Inteligência Artificial aplicada ao mercado imobiliário brasileiro.
 
 ## Objetivo
 
-Construir uma base de estudos para compreender conceitos básicos de IA e explorar aplicações em anúncios imobiliários, atendimento inicial, organização de dados e análise de mercado, com atenção à qualidade das fontes, à privacidade e à responsabilidade profissional.
+Construir uma base de estudos de nível básico para compreender os fundamentos da IA e explorar possíveis aplicações no setor imobiliário, com atenção à confiabilidade das fontes, à privacidade dos dados e à responsabilidade profissional.
 
 ## Ferramentas utilizadas
 
-* Gemini Notebook/NotebookLM
-* GitHub
-* Fontes institucionais e educacionais
+- Google NotebookLM
+- GitHub
+- Fontes institucionais e educacionais
 
 ## Fontes de pesquisa
 
-* Google AI e Google Developers — conceitos de IA e aprendizado de máquina.
-* FGV IBRE — indicadores econômicos e da construção.
-* COFECI — regulamentação e avaliação imobiliária.
-* ANPD — proteção de dados pessoais e LGPD.
+- **Google AI e Google Developers:** fundamentos de inteligência artificial e aprendizado de máquina.
+- **FGV IBRE:** indicadores econômicos relacionados a aluguéis e construção.
+- **COFECI:** referências institucionais e regulamentação da atividade imobiliária.
+- **ANPD:** proteção de dados pessoais e LGPD.
 
-Os documentos específicos e os critérios de seleção serão detalhados em `fontes/fontes-e-criterios.md`.
-
-## Aprendizados
-
-* A IA pode apoiar tarefas, mas suas respostas precisam ser verificadas.
-* As fontes devem sustentar diretamente as afirmações apresentadas.
-* Dados de mercado precisam de contexto, data e metodologia.
-* O uso de dados pessoais exige cuidado com a privacidade.
-* Questões normativas devem ser verificadas em documentos oficiais atualizados.
+Os critérios de seleção e as limitações das fontes estão documentados em [`fontes/fontes-e-criterios.md`](fontes/fontes-e-criterios.md).
 
 ## Materiais produzidos
 
-* Mapa mental dos fundamentos de IA, setor imobiliário e LGPD.
-* Guia de estudos com perguntas de revisão e glossário.
-* Auditoria crítica das fontes consultadas.
+- [Guia de estudos em PDF](materiais/guia-de-estudos.pdf)
+- [Mapa mental](materiais/mapa-mental.png)
+- [Descrição dos materiais](materiais/README.md)
+- [Auditoria crítica das fontes](auditoria/auditoria-fontes.md)
 
-## Observação
+## Principais aprendizados
 
-Este projeto tem finalidade educacional e não constitui aconselhamento jurídico ou avaliação profissional de imóveis.
+1. A IA pode auxiliar na organização de informações, na produção de textos e na análise exploratória de dados.
+2. As respostas de IA precisam ser verificadas com fontes confiáveis.
+3. Indicadores econômicos precisam ser interpretados conforme seu contexto e metodologia.
+4. O tratamento de dados pessoais exige cuidados com a LGPD.
+5. Questões profissionais e jurídicas devem ser conferidas em normas oficiais atualizadas.
+
+## Notebook utilizado
+
+**Link compartilhado:** substitua este texto pelo link real do seu notebook compartilhado no NotebookLM.
+
+## Limitações
+
+Este projeto possui finalidade educacional. Os exemplos apresentados não substituem avaliação profissional de imóveis, orientação jurídica ou análise de conformidade com a legislação vigente.
