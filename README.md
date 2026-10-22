@@ -38,10 +38,10 @@ Os critérios de seleção e as limitações das fontes estão documentados em [
 4. O tratamento de dados pessoais exige cuidados com a LGPD.
 5. Questões profissionais e jurídicas devem ser conferidas em normas oficiais atualizadas.
 
-## Notebook utilizado 
-https://notebook.google.com/notebook/e4d16fb6-fb34-4228-a751-2acc8519ab07?utm_source=chatgpt.com
 
-https://github.com/amandaitac/guia-de-estudos-dio-agente-imobiliario
+## Notebook utilizado
+
+[Acessar o notebook no NotebookLM](https://notebook.google.com/notebook/e4d16fb6-fb34-4228-a751-2acc8519ab07)
 
 ## Limitações
 
